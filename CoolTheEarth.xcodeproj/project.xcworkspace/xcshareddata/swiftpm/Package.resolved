@@ -1,0 +1,33 @@
+{
+  "originHash" : "f58c125b83b496141cc86d49c13e0668adae8eeaa1577c71b65993eef841ba00",
+  "pins" : [
+    {
+      "identity" : "animatedtabbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/AnimatedTabBar",
+      "state" : {
+        "revision" : "b91b07c9bf7490fce76deb90e56bb34c6871b875",
+        "version" : "0.1.4"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "8a1be70a625683bc04d6903e2935bf23f3c6d609",
+        "version" : "5.19.7"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI",
+      "state" : {
+        "revision" : "5d462f7530677ae0c2b9510c26383aa25ba48751",
+        "version" : "3.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
